@@ -1,4 +1,4 @@
-  # Workflow to deploy the artifacts
+   # Workflow to deploy the artifacts
 name: cd
 on:
   workflow_run:
